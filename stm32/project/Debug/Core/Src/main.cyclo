@@ -1,0 +1,13 @@
+../Core/Src/main.c:54:6:Motor1	3
+../Core/Src/main.c:69:6:Motor2	3
+../Core/Src/main.c:85:6:goforward	1
+../Core/Src/main.c:90:6:gobackward	1
+../Core/Src/main.c:95:6:goleft	1
+../Core/Src/main.c:100:6:goright	1
+../Core/Src/main.c:105:6:sitstill	1
+../Core/Src/main.c:129:5:main	5
+../Core/Src/main.c:198:6:SystemClock_Config	3
+../Core/Src/main.c:240:13:MX_TIM2_Init	7
+../Core/Src/main.c:303:13:MX_UART4_Init	2
+../Core/Src/main.c:336:13:MX_GPIO_Init	1
+../Core/Src/main.c:369:6:Error_Handler	1
